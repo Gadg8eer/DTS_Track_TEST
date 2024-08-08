@@ -1,3 +1,5 @@
+# This version has been modified for the purposes of integration with ![TEST](https://github.com/Gadg8eer/tracktype-extended-standardization-templates) modules.
+
 # Diversity Track Set 다양성 선로세트 /DTS_Track
 ![DTS_Track_board](https://github.com/DTS-NewGRF/DTS_Track/blob/main/docs/DTS_Track_board.png)
 **다양성 선로세트**는 <br>
